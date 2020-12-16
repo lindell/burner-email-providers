@@ -1,7 +1,5 @@
 0-00.usa.cc
 0-180.com
-0-181.com
-gmail.com
 0-30-24.com
 0-420.com
 0-900.com
@@ -41588,6 +41586,7 @@ gmaik.com
 gmail-box.com
 gmail-fiji.gq
 gmail.ax
+gmail.com
 gmail.com.247blog.com
 gmail.com.bellwellcharters.com
 gmail.com.cad.creou.dev
